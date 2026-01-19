@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Padiyar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🤝 I’m looking for help with **BackEnd**
-
-- 💬 Ask me about **Frontend**
+<h3 align="center">A passionate software developer from India</h3>
 
 - 📫 How to reach me **vijaypadiyar433@gmail.com**
 
