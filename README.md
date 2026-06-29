@@ -39,7 +39,6 @@ Beyond code, I've presented research at a national-level conference, organised v
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
@@ -54,7 +53,6 @@ Beyond code, I've presented research at a national-level conference, organised v
 | [**ResQNet**](https://github.com/VijayPadiyar/ResQNet) | React · Node.js · Express · MongoDB · Socket.io · Stripe · Google Maps | Real-time disaster management platform; geospatial queries, live WebSocket coordination, payment integration |
 | [**Journalify**](https://github.com/VijayPadiyar/Journalify) | Spring Boot · Hibernate · MySQL · React · Claude API | AI-powered journaling app with Claude API-based entry summarisation; full REST API backend |
 | [**Scoot-A-Ride**](https://github.com/VijayPadiyar/Scoot-A-Ride) | Django · MySQL | Scooter rental platform; booking management, user auth, admin dashboard |
-| [**Finance Dashboard Backend**](https://github.com/VijayPadiyar/Finance-Dashboard-Backend) | Node.js · Express · MongoDB · JWT | Role-based financial records API (Admin / Analyst / Viewer); pagination, analytics endpoints |
 
 ---
 
